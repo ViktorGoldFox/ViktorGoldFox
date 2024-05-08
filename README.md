@@ -5,12 +5,13 @@
 <h1>
 </h1>
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViktorGoldFox&theme=github_dark" height="170"/>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ViktorGoldFox&theme=nord&hide_border=true&locale=en&date_format=j%2Fn%5B%2FY%5D&background=EB545400"" alt="GitHub Streak" /></a>
+
+<h3>
+</h3>
 <span>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViktorGoldFox&theme=github_dark" height="170"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ViktorGoldFox&theme=github_dark" height="170"/>
-</span>
-<span>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ViktorGoldFox&theme=nord&hide_border=true&locale=en&date_format=j%2Fn%5B%2FY%5D&background=EB545400"" alt="GitHub Streak" /></a>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ViktorGoldFox&theme=github_dark" height="170"/>
 </span>
 
