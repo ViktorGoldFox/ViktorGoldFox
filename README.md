@@ -10,13 +10,10 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ViktorGoldFox&theme=github_dark" height="170"/>
 </span>
 <span>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ViktorGoldFox&theme=github_dark" height="170"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ViktorGoldFox&theme=nord&hide_border=true&locale=en&date_format=j%2Fn%5B%2FY%5D&background=EB545400"" alt="GitHub Streak" /></a>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ViktorGoldFox&theme=github_dark" height="170"/>
 </span>
 
-<h1>
-</h1>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ViktorGoldFox&theme=nord&hide_border=true&locale=en&date_format=j%2Fn%5B%2FY%5D&background=EB545400"" alt="GitHub Streak" /></a>
 
 <h1 align="center">​ℙ𝕣𝕠𝕘𝕣𝕒𝕞𝕤</h1>
 <span>
