@@ -14,6 +14,7 @@
   </h1>
   <h5>Full stack developer. I am engaged in the development of various products, from backend to frontend. He worked in 2 studios. I am currently a member of DevNetcom</h5>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViktorGoldFox&theme=react-dark">
+<img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D31280%26project%3D%26in=0">
   <h1 align="center">languages</h1>
   <span align="center">
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
